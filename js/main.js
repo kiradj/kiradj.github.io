@@ -70,7 +70,7 @@ jQuery(document).on('ready', function ($) {
     /*jQuery Type JS
     =================*/
     $("#type").typed({
-        strings: ["Designer And Art Director.", "Développeur web.", "Développeur frontal","Développeur BackEnd.","Concepteur et analyseur de projets "],
+        strings: ["Développeur web.", "Développeur Mobile IOS et Android.","Développeur frontal","Développeur BackEnd.","Concepteur et analyseur de projets "],
         typeSpeed: 0,
         loop: true,
         cursorChar: "+",
