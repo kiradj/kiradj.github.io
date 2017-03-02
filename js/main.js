@@ -70,10 +70,10 @@ jQuery(document).on('ready', function ($) {
     /*jQuery Type JS
     =================*/
     $("#type").typed({
-        strings: ["Designer And Art Director.", "Web Developer.", "Front End Developer"],
+        strings: ["Designer And Art Director.", "Développeur web.", "Développeur frontal","Développeur BackEnd.","Concepteur et analyseur de projets "],
         typeSpeed: 0,
         loop: true,
-        cursorChar: " ",
+        cursorChar: "+",
     });
     /* === Animation on Scroll === */
     var wow = new WOW({
